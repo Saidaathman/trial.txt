@@ -1,0 +1,7 @@
+xorange
+apple
+mango
+pineapple
+guava
+banana
+
